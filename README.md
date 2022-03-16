@@ -33,3 +33,5 @@ Say NO to sitting on a huge backlog of user stories. With WaveMaker, app teams c
 Welcoming change, even late in the SDLC is a fundamental principle in the agile manifesto. By freeing up time spent in hand-coding, data integration, and manual deployment, WaveMaker allows for focus on the customer, making changes to apps easy, and managing those changes easier.
 ### Easily deploy at scale with speed
 By its very nature, enterprise app development demands scale. WaveMaker platform with auto-containerization, cloud-native architecture and integrated CI/CD pipeline can automate your entire deployment process, resulting in real-time updates to the cloud without any delays.
+
+![wavemaker & traditional team](images/wavemaker&traditionale.JPG )
